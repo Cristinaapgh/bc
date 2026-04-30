@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-proyecto de prueba.
+Proyecto de prueba.
 
 ## How to test
 
-conexion de varias entradas y salidas.
+Conexion de varias entradas y salidas.
 
 ## External hardware
 
-assdd
+Circuito integrado con servos, led y otros componentes
