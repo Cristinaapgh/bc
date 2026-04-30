@@ -17,4 +17,4 @@ Conexion de varias entradas y salidas.
 
 ## External hardware
 
-Circuito integrado con servos, led y otros componentes
+Circuito integrado con servos, led y otros componentes.
