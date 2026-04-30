@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Proyecto de prueba.
+proyecto de prueba.
 
 ## How to test
 
@@ -17,4 +17,4 @@ conexion de varias entradas y salidas.
 
 ## External hardware
 
-ajkewhd
+assdd
